@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngwasidwan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning html, css, javascript, React
 - 💞️ I’m looking to collaborate on frontend learning projects
 - 📫 How to reach me sidwanche@gmail.com
 
