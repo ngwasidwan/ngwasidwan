@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ngwa sidwan
 - 👀 I’m interested in web development
-- i have advanced knowledge on html, css, and javaScript
-- 🌱 I’m currently learning React
+- i have advanced knowledge on html, css, javaScript,and react
+- I am currently learning rredux
 - 💞️ I’m looking to collaborate on frontend learning projects as i build my software development career
 - 📫 How to reach me sidwanche@gmail.com
 
